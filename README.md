@@ -1,7 +1,10 @@
 The Oscars
 ==============================
 
-Exploratory data analysis
+The dataset source is: https://www.kaggle.com/START-UMD/gtd
+The dataset was too large to upload.
+
+Visualization
 
 Project Organization
 ------------
